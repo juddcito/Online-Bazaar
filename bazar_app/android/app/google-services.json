@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013450239421",
+    "project_id": "bazar-d3b0f",
+    "storage_bucket": "bazar-d3b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013450239421:android:e1343421999564965e36d4",
+        "android_client_info": {
+          "package_name": "com.example.bazar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRH9JNVruJcgYM2mhH4uDEzI9l7mOEil8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
