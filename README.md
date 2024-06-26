@@ -1,4 +1,4 @@
-# Online Bazar 🏪
+# Online Bazaar 🏪
 Aplicación móvil hecha en Flutter para buscar y filtrar productos utilizando los servicios de Cloud Firestore y Firebase utilizando Riverpod como manejador de estado.
 
 # Vista previa 👀
